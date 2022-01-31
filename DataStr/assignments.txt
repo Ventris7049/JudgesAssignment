@@ -1,0 +1,18 @@
+Chemistry_1: Gus Grey, Mary May, John Smith
+Projects: 403, 412, 407, 410, 411, 408
+Chemistry_2: Bill Jones, John Jones, Maria Gonzales
+Projects: 409, 406, 405, 404, 407, 410
+Life Science_1: Jill Clemson, Cathy Lively, Jim Green
+Projects: 417, 419, 418, 417, 419, 417
+Environmental Science_1: Michael Cleaver, Joe Martin, Chris Suarez
+Projects: 415, 416, 414, 415, 415
+Chemistry_3: Mary Jones, Cory Garcia, Susan Garcia
+Projects: 411, 407, 410, 411
+Mathematics/Physics_1: Mark Johnson, Karen Simic, Carla Phillips
+Projects: 420, 421, 420, 420
+Behavioral/Social Science_1: Tony Brown
+Projects: 400, 401, 402
+Earth/Space Science_1: Carla Phillips, Cory Garcia, Michael Cleaver
+Projects: 413
+Life Science_2: Susan Garcia, Tony Brown, Joe Martin
+Projects: 419
